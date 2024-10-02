@@ -1,7 +1,7 @@
 # Airlines-Data-Project-AWS
 Implementing data pipeline using AWS services for airlines data
 
-# Introduction
+## Introduction
 In this project, I have created an End-To-End Data Engineering Project on Airlines and its operations data.
 
 # Overview
