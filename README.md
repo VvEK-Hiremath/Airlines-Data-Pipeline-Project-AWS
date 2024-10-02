@@ -30,6 +30,7 @@ Visual ETL <br />
 Redshift <br />
 CloudWatch <br />
 EventBridge <br />
+Step Functions <br />
 SNS (Simple Notification Service) <br />
 
 ## DataSet Used
