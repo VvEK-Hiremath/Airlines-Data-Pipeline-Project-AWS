@@ -7,7 +7,8 @@ In this project, I have created an End-To-End Data Engineering Project on Airlin
 Creating ETL pipeline designed to extract data from the source S3, transform it to ensure data quality and consistency using AWS Glue, and load it into the Redshift for further analysis and reporting.
 
 ## Architecture
-to be committed
+![image](https://github.com/user-attachments/assets/abcd7812-1649-4fc0-bc42-4ad1c1e7abb0)
+
 
 ## Features
 #### Data Extraction: 
